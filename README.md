@@ -2,11 +2,11 @@
 
     ``rb/module-currencyconverter``
 
- - [Main Functionalities](#markdown-header-main-functionalities)
- - [Installation](#markdown-header-installation)
- - [Configuration](#markdown-header-configuration)
- - [Specifications](#markdown-header-specifications)
- - [Attributes](#markdown-header-attributes)
+ - [Main Functionalities](#user-content-main-functionalities)
+ - [Installation](#user-content-installation)
+ - [Configuration](#user-content-configuration)
+ - [Specifications](#user-content-specifications)
+ - [Attributes](#user-content-attributes)
 
 
 ## Main Functionalities
