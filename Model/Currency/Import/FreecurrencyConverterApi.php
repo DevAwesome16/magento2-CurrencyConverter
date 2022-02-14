@@ -1,11 +1,11 @@
 <?php
 /**
- * Copyright © Rahul Barot. All rights reserved.
+ * Copyright © Rahul Barot All rights reserved.
  * See COPYING.txt for license details.
  */
 declare(strict_types=1);
 
-namespace RB\CurrencyConverter\Model\Currency\Import;
+namespace MageRahul\CurrencyConverter\Model\Currency\Import;
 
 use Magento\Directory\Model\CurrencyFactory;
 use Magento\Store\Model\ScopeInterface;

@@ -1,6 +1,6 @@
-# Mage2 Module RB CurrencyConverter
+# Mage2 Module MageRahul CurrencyConverter
 
-    ``composer require rb/module-currencyconverter``
+    ``composer require magerahul/module-currencyconverter``
 
  - [Main Functionalities](#user-content-main-functionalities)
  - [Installation](#user-content-installation)
@@ -17,8 +17,8 @@ This is magento 2 module which provides integration of free currency converter(f
 
 ### Type 1: Zip file
 
- - Unzip the zip file in `app/code/RB`
- - Enable the module by running `php bin/magento module:enable RB_CurrencyConverter`
+ - Unzip the zip file in `app/code/MageRahul`
+ - Enable the module by running `php bin/magento module:enable MageRahul_CurrencyConverter`
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
@@ -29,8 +29,8 @@ This is magento 2 module which provides integration of free currency converter(f
     - public repository `packagist.org`
     - public github repository as vcs
  - Add the composer repository to the configuration by running `composer config repositories.repo.magento.com composer https://repo.magento.com/`
- - Install the module composer by running `composer require rb/module-currencyconverter`
- - enable the module by running `php bin/magento module:enable RB_CurrencyConverter`
+ - Install the module composer by running `composer require magerahul/module-currencyconverter`
+ - enable the module by running `php bin/magento module:enable MageRahul_CurrencyConverter`
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 

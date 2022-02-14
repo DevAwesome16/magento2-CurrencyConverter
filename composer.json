@@ -1,12 +1,12 @@
 {
-    "name": "rb/module-currencyconverter",
+    "name": "magerahul/module-currencyconverter",
     "description": "This is magento 2 module which provides usage of custom currency converter API.",
     "type": "magento2-module",
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Rahul Barot",
+            "email": "rahulbarot.rahu@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "RB\\CurrencyConverter\\": ""
+            "MageRahul\\CurrencyConverter\\": ""
         }
     }
 }

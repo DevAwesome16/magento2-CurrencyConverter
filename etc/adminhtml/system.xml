@@ -2,7 +2,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
 	<system>
         <section id="currency">
-        	<resource>RB_CurrencyConverter::config_rb_currencyconverter</resource>
+        	<resource>MageRahul_CurrencyConverter::config_rb_currencyconverter</resource>
             <group id="freecurrencyapi" sortOrder="55" showInDefault="1" translate="label">
 				<label>Freecurrency Converter API</label>
 				<field id="api_key" type="obscure" sortOrder="5" showInDefault="1" translate="label">
