@@ -1,6 +1,6 @@
 # Mage2 Module RB CurrencyConverter
 
-    ``rb/module-currencyconverter``
+    ``composer require rb/module-currencyconverter``
 
  - [Main Functionalities](#user-content-main-functionalities)
  - [Installation](#user-content-installation)
