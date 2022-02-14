@@ -1,0 +1,22 @@
+{
+    "name": "rb/module-currencyconverter",
+    "description": "This is magento 2 module which provides usage of custom currency converter API.",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "RB\\CurrencyConverter\\": ""
+        }
+    }
+}
